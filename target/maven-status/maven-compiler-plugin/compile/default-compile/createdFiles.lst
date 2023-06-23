@@ -1,0 +1,10 @@
+com/example/fruitstall/model/FruitStall.class
+com/example/fruitstall/model/Fruit.class
+com/example/fruitstall/service/FriendFruitService.class
+com/example/fruitstall/controller/FriendFruitController.class
+com/example/fruitstall/dao/FruitStallDAO.class
+com/example/fruitstall/service/FriendFruitServiceImplementation.class
+com/example/fruitstall/service/FruitStallService.class
+com/example/fruitstall/controller/FruitStallController.class
+com/example/fruitstall/FruitStallApplication.class
+com/example/fruitstall/service/FruitStallServiceImplementation.class

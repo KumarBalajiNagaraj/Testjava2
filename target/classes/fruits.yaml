@@ -1,0 +1,53 @@
+fruitStalls:
+  - id: 1
+    hasCherry: true
+    hasPeach: true
+    hasPear: false
+    cherry:
+      name: Cherry
+      price: 1.5
+    peach:
+      name: Peach
+      price: 2.0
+    pear:
+      name: Pear
+      price: 1.8
+  - id: 2
+    hasCherry: false
+    hasPeach: true
+    hasPear: true
+    cherry:
+      name: Cherry
+      price: 1.5
+    peach:
+      name: Peach
+      price: 2.5
+    pear:
+      name: Pear
+      price: 2.2
+  - id: 3
+    hasCherry: true
+    hasPeach: false
+    hasPear: true
+    cherry:
+      name: Cherry
+      price: 1.7
+    peach:
+      name: Peach
+      price: 2.0
+    pear:
+      name: Pear
+      price: 2.5
+  - id: 4
+    hasCherry: true
+    hasPeach: false
+    hasPear: false
+    cherry:
+      name: Cherry
+      price: 1.8
+    peach:
+      name: Peach
+      price: 2.0
+    pear:
+      name: Pear
+      price: 1.8
